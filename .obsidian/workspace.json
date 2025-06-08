@@ -11,17 +11,14 @@
             "id": "ef366aa6d1d4d22b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Campaign.canvas",
-                "viewState": {
-                  "x": 4210,
-                  "y": -328.5,
-                  "zoom": -3.8670243057549762
-                }
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Campaign"
+              "icon": "lucide-file",
+              "title": "To Do"
             }
           }
         ]
@@ -173,9 +170,11 @@
   },
   "active": "ef366aa6d1d4d22b",
   "lastOpenFiles": [
+    "Campaign.canvas",
+    "~$Helpful links.tmp",
+    "Helpful links.docx",
     "Untitled.md",
     "To Do.md",
-    "Campaign.canvas",
     "Notes/Weapons.md",
     "Notes/Trivia.md",
     "Notes/(The Oracle) Riddles.md",
