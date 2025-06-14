@@ -1,0 +1,6 @@
+
+Bar wench
+
+Drunkard
+
+Bouncer

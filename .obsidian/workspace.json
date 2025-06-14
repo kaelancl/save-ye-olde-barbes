@@ -11,17 +11,178 @@
             "id": "ef366aa6d1d4d22b",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Campaign.canvas",
+                "viewState": {
+                  "x": 409.3521051728876,
+                  "y": -90.10188915148832,
+                  "zoom": -1.4680906387243398
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Campaign"
+            }
+          },
+          {
+            "id": "7ae97d56ffca05e7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "NPCs/Baseeeel zempala.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Baseeeel zempala"
+            }
+          },
+          {
+            "id": "d31689fb73abf36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Baseeeel zempala.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baseeeel zempala"
+            }
+          },
+          {
+            "id": "218d8e4ecde0b3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Toni Galati, the Dreaded Dwarf Spud King.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toni Galati, the Dreaded Dwarf Spud King"
+            }
+          },
+          {
+            "id": "125e9df05cdea1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Toni Galati, the Dreaded Dwarf Spud King.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toni Galati, the Dreaded Dwarf Spud King"
+            }
+          },
+          {
+            "id": "8631a8f2d4797d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Toni Galati, the Dreaded Dwarf Spud King.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toni Galati, the Dreaded Dwarf Spud King"
+            }
+          },
+          {
+            "id": "d82ebe1dc9181d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/The Naarm Wizards Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Naarm Wizards Three"
+            }
+          },
+          {
+            "id": "2e15e3d08814e11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Eshay Elves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eshay Elves"
+            }
+          },
+          {
+            "id": "d5f379bf6fd95e04",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Campaign.canvas",
+                "viewState": {
+                  "x": 4210,
+                  "y": -328.5,
+                  "zoom": -3.4060505223092736
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Campaign"
+            }
+          },
+          {
+            "id": "23c2c0fb8e1bb25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scene Descriptions/Carpark outside ye olde barbes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carpark outside ye olde barbes"
+            }
+          },
+          {
+            "id": "5420c7d4e0c9a713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scene Descriptions/Paramount Inn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paramount Inn"
+            }
+          },
+          {
+            "id": "16881c39a0a637fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scene Descriptions/Paramount Inn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paramount Inn"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -168,22 +329,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef366aa6d1d4d22b",
+  "active": "16881c39a0a637fe",
   "lastOpenFiles": [
-    "Campaign.canvas",
-    "~$Helpful links.tmp",
-    "Helpful links.docx",
     "Untitled.md",
-    "To Do.md",
-    "Notes/Weapons.md",
-    "Notes/Trivia.md",
-    "Notes/(The Oracle) Riddles.md",
-    "Notes",
+    "Scene Descriptions/Paramount Inn.md",
+    "Scene Descriptions/Carpark outside ye olde barbes.md",
+    "NPCs/Trickius Maximus.md",
+    "NPCs/The oracle (aka george).md",
+    "NPCs/The Naarm Wizards Three.md",
+    "NPCs/Paramount Inn characters.md",
+    "NPCs/Baseeeel zempala.md",
+    "Images/tony galati, the spud king.png",
+    "Images/spud king option 2.png",
+    "Images/trickius maximus.png",
+    "Images/oracle jax, the allseerer of scenes.png",
+    "Images/gorp gremlin.png",
+    "Images/albert dumblegroves.png",
+    "Images/baseel zempala.png",
+    "Images/eshay elves.png",
+    "Monsters/Eshay Elves.md",
+    "Campaign.canvas",
+    "Images/spud king option 2.png.crdownload",
+    "Images/albert dumblegroves.png.crdownload",
+    "Images/trickius maximus.png.crdownload",
+    "Abilities/Albert and Slam abilities.md",
+    "Scene Descriptions",
     "Abilities/Tony Abilities.md",
     "Abilities/Gorp King Abilities.md",
-    "Abilities/Albert and Slam abilities.md",
-    "Abilities",
-    "Obsidian Vault (copy).tar/Obsidian Vault (copy).tar",
-    "Obsidian Vault (copy).tar"
+    "Images/oracle jax, the allseerer of scenes.png.crdownload",
+    "Images/tony galati, the spud king.png.crdownload",
+    "Notes/(The Oracle) Riddles.md",
+    "Images/eshay elves.png.crdownload",
+    "Monsters/Gorp Gremlins.md",
+    "Monsters/Toni Galati, the Dreaded Dwarf Spud King.md",
+    "Images/gorp gremlin.png.crdownload",
+    "Monsters",
+    "To Do.md",
+    "Toni Galati the Spud King.md",
+    "Notes/Weapons.md",
+    "Notes/Trivia.md",
+    "NPCs"
   ]
 }
